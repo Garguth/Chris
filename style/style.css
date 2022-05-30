@@ -10,7 +10,7 @@
 }
 body
 {
-	background: #FFF;
+	background: 000000;
 	padding: 0px;
 	margin: 0px;
 	font-family: 'Arial';
@@ -3206,11 +3206,11 @@ li.template-bullet:before
 .more,
 .more[type="submit"]
 {	
-	color: #FFF; 
+	color: #FF0000; 
 	font-family: 'Raleway';
 	font-size: 12px;
 	font-weight: 700;
-	background: #F4BC16;
+	background: #F41616;
 	padding: 16px 23px 15px;
 	text-align: center;
 	cursor: pointer;
@@ -3233,7 +3233,7 @@ li.template-bullet:before
 .more.simple
 {
 	background: transparent;
-	color: #FFF;
+	color: #FF0000;
 	border: 1px solid #E2E6E7;
 	padding: 17px 24px 16px;
 	transition: all 0.3s ease 0s;
@@ -3242,8 +3242,8 @@ li.template-bullet:before
 }
 .more.simple:hover
 {
-	border-color: #F4BC16;
-	background: #F4BC16;
+	border-color: #F41616;
+	background: #F41616;
 }
 .more.small
 {
